@@ -1,0 +1,8 @@
+--- Evaluation Report for Run 27 ---
+  Invisibility:
+    PSNR: 12.3603 dB
+    SSIM: 0.4139
+  Robustness:
+    BER: 0.4531
+    Accuracy: 0.5469
+------------------------------------

@@ -1,0 +1,60 @@
+--- Detailed Training Report ---
+
+### 1. Model Architecture ###
+- WatermarkEncoder: Linear layers (input: 128, output: 4096)
+- WatermarkDecoder: (Details from decoder.py would go here)
+- Stable Diffusion Model: AI-ModelScope/stable-diffusion-v1-5
+- Trainable Encoder parameters: 2,265,856
+- Trainable Decoder parameters: 708,704
+
+### 2. Training Data ###
+- Training Prompts File: data/prompts.txt (Number of prompts: 10)
+- Validation Prompts File: data/validation_prompts.txt (Number of prompts: 5)
+- Image Resolution: 256x256
+- Data Preprocessing: Tokenization, image resizing (implicit in Stable Diffusion model loading)
+
+### 3. Training Setup ###
+- Batch Size: 1
+- Learning Rate: 0.0001
+- Optimizer Type: AdamW
+- Adam Beta1: 0.9
+- Adam Beta2: 0.999
+- Weight Decay: 0.01
+
+### 4. Training Schedule ###
+- Total Epochs: 10
+- Gradient Accumulation Steps: 8
+- Warm-up Steps: Not explicitly configured
+- Learning Rate Decay Strategy: Not explicitly configured
+
+### 5. Hardware ###
+- Device: cuda
+- GPU Type: NVIDIA A10
+- Number of GPUs: 2
+- Max GPU Memory Allocated (per epoch, GB): [3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977, 3.6326379776000977]
+- Average Training Time per Epoch: 40.54 seconds
+- Total Training Time: 405.37 seconds
+
+### 6. Loss Functions ###
+- Watermark Loss Function: MSE
+- Watermark Loss Weight: 1.0
+
+### 7. Evaluation Metrics ###
+- Currently, only Watermark Recovery MSE is logged during validation.
+- FID, IS, LPIPS, Human Evaluation: Not implemented in current setup. Requires additional development.
+
+### 8. Ablation Studies ###
+- Not applicable to a single training run. Requires multiple comparative experiments.
+
+### 9. Hyperparameters ###
+- Image Resolution: 256x256
+- Text Encoder Type: Implicitly part of AI-ModelScope/stable-diffusion-v1-5 (CLIP-based)
+- Noise Schedule Parameters: Implicitly part of AI-ModelScope/stable-diffusion-v1-5 (DDPM-based)
+
+### 10. Training Dynamics ###
+- Loss Curves: See generated training_loss.png and validation_loss.png
+- Learning Rate Curves: See generated learning_rate.png
+- Sample Quality Evolution: Not currently saved during training. Requires saving generated images at intervals.
+
+### Raw Data ###
+- See training_report.csv for detailed epoch-wise metrics.

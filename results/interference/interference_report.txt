@@ -1,0 +1,422 @@
+--- Interference Experiment Summary Report ---
+
+--- Results for round_1 ---
+  Invisibility:
+    PSNR: 9.5609 dB
+    SSIM: 0.2405
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4609
+    Noise Level: 0.0005 | Accuracy: 0.4609
+    Noise Level: 0.001  | Accuracy: 0.4609
+    Noise Level: 0.0025 | Accuracy: 0.4609
+    Noise Level: 0.005  | Accuracy: 0.4609
+    Noise Level: 0.01   | Accuracy: 0.4609
+  Robustness (Drawing):
+    Accuracy: 0.4531
+
+--- Results for round_2 ---
+  Invisibility:
+    PSNR: 14.0307 dB
+    SSIM: 0.5767
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4844
+    Noise Level: 0.0005 | Accuracy: 0.4844
+    Noise Level: 0.001  | Accuracy: 0.4844
+    Noise Level: 0.0025 | Accuracy: 0.4844
+    Noise Level: 0.005  | Accuracy: 0.4844
+    Noise Level: 0.01   | Accuracy: 0.4766
+  Robustness (Drawing):
+    Accuracy: 0.4688
+
+--- Results for round_3 ---
+  Invisibility:
+    PSNR: 17.1132 dB
+    SSIM: 0.6041
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5469
+    Noise Level: 0.0005 | Accuracy: 0.5469
+    Noise Level: 0.001  | Accuracy: 0.5469
+    Noise Level: 0.0025 | Accuracy: 0.5469
+    Noise Level: 0.005  | Accuracy: 0.5469
+    Noise Level: 0.01   | Accuracy: 0.5469
+  Robustness (Drawing):
+    Accuracy: 0.5469
+
+--- Results for round_4 ---
+  Invisibility:
+    PSNR: 10.3554 dB
+    SSIM: 0.3111
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5156
+    Noise Level: 0.0005 | Accuracy: 0.5156
+    Noise Level: 0.001  | Accuracy: 0.5156
+    Noise Level: 0.0025 | Accuracy: 0.5156
+    Noise Level: 0.005  | Accuracy: 0.5156
+    Noise Level: 0.01   | Accuracy: 0.5156
+  Robustness (Drawing):
+    Accuracy: 0.5234
+
+--- Results for round_5 ---
+  Invisibility:
+    PSNR: 16.5596 dB
+    SSIM: 0.5472
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5469
+    Noise Level: 0.0005 | Accuracy: 0.5469
+    Noise Level: 0.001  | Accuracy: 0.5469
+    Noise Level: 0.0025 | Accuracy: 0.5469
+    Noise Level: 0.005  | Accuracy: 0.5469
+    Noise Level: 0.01   | Accuracy: 0.5469
+  Robustness (Drawing):
+    Accuracy: 0.5312
+
+--- Results for round_6 ---
+  Invisibility:
+    PSNR: 13.5325 dB
+    SSIM: 0.5951
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5469
+    Noise Level: 0.0005 | Accuracy: 0.5469
+    Noise Level: 0.001  | Accuracy: 0.5469
+    Noise Level: 0.0025 | Accuracy: 0.5469
+    Noise Level: 0.005  | Accuracy: 0.5469
+    Noise Level: 0.01   | Accuracy: 0.5469
+  Robustness (Drawing):
+    Accuracy: 0.5625
+
+--- Results for round_7 ---
+  Invisibility:
+    PSNR: 22.6068 dB
+    SSIM: 0.7588
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4844
+    Noise Level: 0.0005 | Accuracy: 0.4844
+    Noise Level: 0.001  | Accuracy: 0.4844
+    Noise Level: 0.0025 | Accuracy: 0.4844
+    Noise Level: 0.005  | Accuracy: 0.4844
+    Noise Level: 0.01   | Accuracy: 0.4609
+  Robustness (Drawing):
+    Accuracy: 0.4844
+
+--- Results for round_8 ---
+  Invisibility:
+    PSNR: 14.6025 dB
+    SSIM: 0.3711
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5391
+    Noise Level: 0.0005 | Accuracy: 0.5391
+    Noise Level: 0.001  | Accuracy: 0.5391
+    Noise Level: 0.0025 | Accuracy: 0.5391
+    Noise Level: 0.005  | Accuracy: 0.5391
+    Noise Level: 0.01   | Accuracy: 0.5312
+  Robustness (Drawing):
+    Accuracy: 0.5234
+
+--- Results for round_9 ---
+  Invisibility:
+    PSNR: 16.2308 dB
+    SSIM: 0.5394
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.6016
+    Noise Level: 0.0005 | Accuracy: 0.6016
+    Noise Level: 0.001  | Accuracy: 0.6016
+    Noise Level: 0.0025 | Accuracy: 0.6016
+    Noise Level: 0.005  | Accuracy: 0.5938
+    Noise Level: 0.01   | Accuracy: 0.6016
+  Robustness (Drawing):
+    Accuracy: 0.5781
+
+--- Results for round_10 ---
+  Invisibility:
+    PSNR: 9.9552 dB
+    SSIM: 0.2348
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.6016
+    Noise Level: 0.0005 | Accuracy: 0.6016
+    Noise Level: 0.001  | Accuracy: 0.6016
+    Noise Level: 0.0025 | Accuracy: 0.6016
+    Noise Level: 0.005  | Accuracy: 0.5938
+    Noise Level: 0.01   | Accuracy: 0.5938
+  Robustness (Drawing):
+    Accuracy: 0.5938
+
+--- Results for round_11 ---
+  Invisibility:
+    PSNR: 10.3364 dB
+    SSIM: 0.4761
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4609
+    Noise Level: 0.0005 | Accuracy: 0.4609
+    Noise Level: 0.001  | Accuracy: 0.4609
+    Noise Level: 0.0025 | Accuracy: 0.4609
+    Noise Level: 0.005  | Accuracy: 0.4609
+    Noise Level: 0.01   | Accuracy: 0.4688
+  Robustness (Drawing):
+    Accuracy: 0.4609
+
+--- Results for round_12 ---
+  Invisibility:
+    PSNR: 9.7961 dB
+    SSIM: 0.3920
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5312
+    Noise Level: 0.0005 | Accuracy: 0.5312
+    Noise Level: 0.001  | Accuracy: 0.5312
+    Noise Level: 0.0025 | Accuracy: 0.5312
+    Noise Level: 0.005  | Accuracy: 0.5391
+    Noise Level: 0.01   | Accuracy: 0.5391
+  Robustness (Drawing):
+    Accuracy: 0.5391
+
+--- Results for round_13 ---
+  Invisibility:
+    PSNR: 16.8786 dB
+    SSIM: 0.5376
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4609
+    Noise Level: 0.0005 | Accuracy: 0.4609
+    Noise Level: 0.001  | Accuracy: 0.4609
+    Noise Level: 0.0025 | Accuracy: 0.4609
+    Noise Level: 0.005  | Accuracy: 0.4609
+    Noise Level: 0.01   | Accuracy: 0.4609
+  Robustness (Drawing):
+    Accuracy: 0.4688
+
+--- Results for round_14 ---
+  Invisibility:
+    PSNR: 19.7033 dB
+    SSIM: 0.6106
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5312
+    Noise Level: 0.0005 | Accuracy: 0.5312
+    Noise Level: 0.001  | Accuracy: 0.5312
+    Noise Level: 0.0025 | Accuracy: 0.5312
+    Noise Level: 0.005  | Accuracy: 0.5469
+    Noise Level: 0.01   | Accuracy: 0.5312
+  Robustness (Drawing):
+    Accuracy: 0.5156
+
+--- Results for round_15 ---
+  Invisibility:
+    PSNR: 16.1949 dB
+    SSIM: 0.6975
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4766
+    Noise Level: 0.0005 | Accuracy: 0.4766
+    Noise Level: 0.001  | Accuracy: 0.4766
+    Noise Level: 0.0025 | Accuracy: 0.4688
+    Noise Level: 0.005  | Accuracy: 0.4688
+    Noise Level: 0.01   | Accuracy: 0.4688
+  Robustness (Drawing):
+    Accuracy: 0.4688
+
+--- Results for round_16 ---
+  Invisibility:
+    PSNR: 17.7613 dB
+    SSIM: 0.5981
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4688
+    Noise Level: 0.0005 | Accuracy: 0.4688
+    Noise Level: 0.001  | Accuracy: 0.4688
+    Noise Level: 0.0025 | Accuracy: 0.4688
+    Noise Level: 0.005  | Accuracy: 0.4688
+    Noise Level: 0.01   | Accuracy: 0.4609
+  Robustness (Drawing):
+    Accuracy: 0.4609
+
+--- Results for round_17 ---
+  Invisibility:
+    PSNR: 12.4369 dB
+    SSIM: 0.3541
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5234
+    Noise Level: 0.0005 | Accuracy: 0.5234
+    Noise Level: 0.001  | Accuracy: 0.5234
+    Noise Level: 0.0025 | Accuracy: 0.5312
+    Noise Level: 0.005  | Accuracy: 0.5312
+    Noise Level: 0.01   | Accuracy: 0.5312
+  Robustness (Drawing):
+    Accuracy: 0.5312
+
+--- Results for round_18 ---
+  Invisibility:
+    PSNR: 19.4356 dB
+    SSIM: 0.7100
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5156
+    Noise Level: 0.0005 | Accuracy: 0.5156
+    Noise Level: 0.001  | Accuracy: 0.5156
+    Noise Level: 0.0025 | Accuracy: 0.5156
+    Noise Level: 0.005  | Accuracy: 0.5078
+    Noise Level: 0.01   | Accuracy: 0.5156
+  Robustness (Drawing):
+    Accuracy: 0.5000
+
+--- Results for round_19 ---
+  Invisibility:
+    PSNR: 16.9422 dB
+    SSIM: 0.4685
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5000
+    Noise Level: 0.0005 | Accuracy: 0.5000
+    Noise Level: 0.001  | Accuracy: 0.5000
+    Noise Level: 0.0025 | Accuracy: 0.5000
+    Noise Level: 0.005  | Accuracy: 0.5000
+    Noise Level: 0.01   | Accuracy: 0.5078
+  Robustness (Drawing):
+    Accuracy: 0.5000
+
+--- Results for round_20 ---
+  Invisibility:
+    PSNR: 12.7624 dB
+    SSIM: 0.2686
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5625
+    Noise Level: 0.0005 | Accuracy: 0.5625
+    Noise Level: 0.001  | Accuracy: 0.5625
+    Noise Level: 0.0025 | Accuracy: 0.5625
+    Noise Level: 0.005  | Accuracy: 0.5625
+    Noise Level: 0.01   | Accuracy: 0.5625
+  Robustness (Drawing):
+    Accuracy: 0.5625
+
+--- Results for round_21 ---
+  Invisibility:
+    PSNR: 23.4177 dB
+    SSIM: 0.7256
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4531
+    Noise Level: 0.0005 | Accuracy: 0.4531
+    Noise Level: 0.001  | Accuracy: 0.4531
+    Noise Level: 0.0025 | Accuracy: 0.4531
+    Noise Level: 0.005  | Accuracy: 0.4531
+    Noise Level: 0.01   | Accuracy: 0.4609
+  Robustness (Drawing):
+    Accuracy: 0.4766
+
+--- Results for round_22 ---
+  Invisibility:
+    PSNR: 14.1868 dB
+    SSIM: 0.3742
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5469
+    Noise Level: 0.0005 | Accuracy: 0.5469
+    Noise Level: 0.001  | Accuracy: 0.5469
+    Noise Level: 0.0025 | Accuracy: 0.5469
+    Noise Level: 0.005  | Accuracy: 0.5469
+    Noise Level: 0.01   | Accuracy: 0.5391
+  Robustness (Drawing):
+    Accuracy: 0.5391
+
+--- Results for round_23 ---
+  Invisibility:
+    PSNR: 8.4087 dB
+    SSIM: 0.1683
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4531
+    Noise Level: 0.0005 | Accuracy: 0.4531
+    Noise Level: 0.001  | Accuracy: 0.4531
+    Noise Level: 0.0025 | Accuracy: 0.4531
+    Noise Level: 0.005  | Accuracy: 0.4531
+    Noise Level: 0.01   | Accuracy: 0.4453
+  Robustness (Drawing):
+    Accuracy: 0.4453
+
+--- Results for round_24 ---
+  Invisibility:
+    PSNR: 14.7300 dB
+    SSIM: 0.6530
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4609
+    Noise Level: 0.0005 | Accuracy: 0.4609
+    Noise Level: 0.001  | Accuracy: 0.4609
+    Noise Level: 0.0025 | Accuracy: 0.4688
+    Noise Level: 0.005  | Accuracy: 0.4609
+    Noise Level: 0.01   | Accuracy: 0.4766
+  Robustness (Drawing):
+    Accuracy: 0.4766
+
+--- Results for round_25 ---
+  Invisibility:
+    PSNR: 14.3374 dB
+    SSIM: 0.6042
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4609
+    Noise Level: 0.0005 | Accuracy: 0.4609
+    Noise Level: 0.001  | Accuracy: 0.4609
+    Noise Level: 0.0025 | Accuracy: 0.4609
+    Noise Level: 0.005  | Accuracy: 0.4609
+    Noise Level: 0.01   | Accuracy: 0.4453
+  Robustness (Drawing):
+    Accuracy: 0.4609
+
+--- Results for round_26 ---
+  Invisibility:
+    PSNR: 18.1380 dB
+    SSIM: 0.6687
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4844
+    Noise Level: 0.0005 | Accuracy: 0.4844
+    Noise Level: 0.001  | Accuracy: 0.4844
+    Noise Level: 0.0025 | Accuracy: 0.4844
+    Noise Level: 0.005  | Accuracy: 0.4844
+    Noise Level: 0.01   | Accuracy: 0.4688
+  Robustness (Drawing):
+    Accuracy: 0.4922
+
+--- Results for round_27 ---
+  Invisibility:
+    PSNR: 13.5307 dB
+    SSIM: 0.4207
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4219
+    Noise Level: 0.0005 | Accuracy: 0.4219
+    Noise Level: 0.001  | Accuracy: 0.4219
+    Noise Level: 0.0025 | Accuracy: 0.4219
+    Noise Level: 0.005  | Accuracy: 0.4219
+    Noise Level: 0.01   | Accuracy: 0.4219
+  Robustness (Drawing):
+    Accuracy: 0.4219
+
+--- Results for round_28 ---
+  Invisibility:
+    PSNR: 17.8033 dB
+    SSIM: 0.7776
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5312
+    Noise Level: 0.0005 | Accuracy: 0.5312
+    Noise Level: 0.001  | Accuracy: 0.5312
+    Noise Level: 0.0025 | Accuracy: 0.5312
+    Noise Level: 0.005  | Accuracy: 0.5312
+    Noise Level: 0.01   | Accuracy: 0.5156
+  Robustness (Drawing):
+    Accuracy: 0.5156
+
+--- Results for round_29 ---
+  Invisibility:
+    PSNR: 13.7145 dB
+    SSIM: 0.3412
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.5000
+    Noise Level: 0.0005 | Accuracy: 0.5000
+    Noise Level: 0.001  | Accuracy: 0.5000
+    Noise Level: 0.0025 | Accuracy: 0.5000
+    Noise Level: 0.005  | Accuracy: 0.5000
+    Noise Level: 0.01   | Accuracy: 0.5000
+  Robustness (Drawing):
+    Accuracy: 0.5000
+
+--- Results for round_30 ---
+  Invisibility:
+    PSNR: 18.6940 dB
+    SSIM: 0.7799
+  Robustness (Noise):
+    Noise Level: 0.0001 | Accuracy: 0.4531
+    Noise Level: 0.0005 | Accuracy: 0.4531
+    Noise Level: 0.001  | Accuracy: 0.4531
+    Noise Level: 0.0025 | Accuracy: 0.4609
+    Noise Level: 0.005  | Accuracy: 0.4609
+    Noise Level: 0.01   | Accuracy: 0.4531
+  Robustness (Drawing):
+    Accuracy: 0.4531
+--- End of Summary Report ---

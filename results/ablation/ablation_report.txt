@@ -1,0 +1,6 @@
+--- Ablation Experiment Summary Report ---
+--- Results for Scaling Factor: 0.1 ---  Average PSNR: 23.5753 dB  Average SSIM: 0.8075  Average BER: 0.4977  Average Accuracy: 0.5023
+--- Results for Scaling Factor: 0.5 ---  Average PSNR: 16.4490 dB  Average SSIM: 0.5968  Average BER: 0.5047  Average Accuracy: 0.4953
+--- Results for Scaling Factor: 1.0 ---  Average PSNR: 15.5156 dB  Average SSIM: 0.4964  Average BER: 0.4977  Average Accuracy: 0.5023
+--- Results for Scaling Factor: 1.5 ---  Average PSNR: 13.0723 dB  Average SSIM: 0.3679  Average BER: 0.5000  Average Accuracy: 0.5000
+--- Results for Scaling Factor: 2.0 ---  Average PSNR: 12.9506 dB  Average SSIM: 0.4193  Average BER: 0.4953  Average Accuracy: 0.5047--- End of Summary Report ---

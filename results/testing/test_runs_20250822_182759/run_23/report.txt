@@ -1,0 +1,8 @@
+--- Evaluation Report for Run 23 ---
+  Invisibility:
+    PSNR: 12.2996 dB
+    SSIM: 0.4663
+  Robustness:
+    BER: 0.4766
+    Accuracy: 0.5234
+------------------------------------

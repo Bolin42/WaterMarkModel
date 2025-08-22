@@ -1,0 +1,8 @@
+--- Evaluation Report for Run 30 ---
+  Invisibility:
+    PSNR: 15.4021 dB
+    SSIM: 0.4121
+  Robustness:
+    BER: 0.4453
+    Accuracy: 0.5547
+------------------------------------

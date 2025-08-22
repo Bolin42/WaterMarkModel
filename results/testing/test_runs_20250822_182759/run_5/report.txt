@@ -1,0 +1,8 @@
+--- Evaluation Report for Run 5 ---
+  Invisibility:
+    PSNR: 22.2185 dB
+    SSIM: 0.6638
+  Robustness:
+    BER: 0.5234
+    Accuracy: 0.4766
+------------------------------------
